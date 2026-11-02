@@ -41,7 +41,8 @@ Este projeto foi construído utilizando as seguintes tecnologias e ferramentas:
 Para executar o projeto localmente na sua máquina, siga os passos abaixo:
 
 1. Clone este repositório
-```bash git clone [https://github.com/isabele-eduarda/landing-page-yourfood](https://github.com/isabele-eduarda/landing-page-yourfood.git)
+```bash 
+git clone 'https://github.com/isabele-eduarda/landing-page-yourfood.git'
 ```
 2. Abra a pasta do projeto no seu editor de código favorito (como o VS Code).
 3. Abra o arquivo index.html:
